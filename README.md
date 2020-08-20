@@ -1,6 +1,6 @@
 # backendweather
 after clone project 
-fist use 
+first use 
   "npm i" in command
 you can run serve : "npm run dev"
 
